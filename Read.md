@@ -20,3 +20,4 @@
 # to verify
 
       sudo docker ps -a
+      docker run -d -p 3000:3000 python-app
